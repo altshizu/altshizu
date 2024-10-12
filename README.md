@@ -1,4 +1,4 @@
-Really just some dude who codes and plays video games
+some dude who codes and plays video games
 
 
 ```yaml
@@ -19,6 +19,6 @@ Really just some dude who codes and plays video games
         _-'
 
 
-> The wolfie has been added to your inventory
+> wolfie has been added to your inventory
 > _
 ```
